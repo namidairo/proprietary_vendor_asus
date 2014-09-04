@@ -46,7 +46,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf201/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
     vendor/asus/tf201/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
     vendor/asus/tf201/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
-    vendor/asus/tf201/proprietary/lib/hw/gps.tegra.so:system/lib/hw/gps.tegra.so \
+    vendor/asus/tf201/proprietary/lib/hw/gpsinternal.tegra.so:system/lib/hw/gpsinternal.tegra.so \
     vendor/asus/tf201/proprietary/lib/hw/sensors6050.cardhu.so:system/lib/hw/sensors6050.cardhu.so \
     vendor/asus/tf201/proprietary/lib/hw/audio_policy.tegra.so:system/lib/hw/audio_policy.tegra.so \
     vendor/asus/tf201/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
