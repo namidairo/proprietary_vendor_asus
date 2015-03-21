@@ -48,13 +48,13 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf201/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
     vendor/asus/tf201/proprietary/lib/hw/gpsinternal.tegra.so:system/lib/hw/gpsinternal.tegra.so \
     vendor/asus/tf201/proprietary/lib/hw/sensors6050.cardhu.so:system/lib/hw/sensors6050.cardhu.so \
-    vendor/asus/tf201/proprietary/lib/hw/audio_policy.tegra.so:system/lib/hw/audio_policy.tegra.so \
+    vendor/asus/tf201/proprietary/lib/hw/audio_policy.vendor.tegra.so:system/lib/hw/audio_policy.vendor.tegra.so \
     vendor/asus/tf201/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
     vendor/asus/tf201/proprietary/lib/hw/sensors.cardhu.so:system/lib/hw/sensors.cardhu.so \
     vendor/asus/tf201/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
     vendor/asus/tf201/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
     vendor/asus/tf201/proprietary/lib/hw/sensors_generic.cardhu.so:system/lib/hw/sensors_generic.cardhu.so \
-    vendor/asus/tf201/proprietary/lib/hw/audio.primary.tegra.so:system/lib/hw/audio.primary.tegra.so \
+    vendor/asus/tf201/proprietary/lib/hw/audio.primary_vendor.tegra.so:system/lib/hw/audio.primary_vendor.tegra.so \
     vendor/asus/tf201/proprietary/lib/hw/camera.tegra.so:system/lib/hw/camera.tegra.so \
     vendor/asus/tf201/proprietary/lib/hw/lights.cardhu.so:system/lib/hw/lights.cardhu.so \
     vendor/asus/tf201/proprietary/lib/hw/gpsdongle.tegra.so:system/lib/hw/gpsdongle.tegra.so \
