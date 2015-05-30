@@ -59,6 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf201/proprietary/lib/hw/lights.cardhu.so:system/lib/hw/lights.cardhu.so \
     vendor/asus/tf201/proprietary/lib/hw/gpsdongle.tegra.so:system/lib/hw/gpsdongle.tegra.so \
     vendor/asus/tf201/proprietary/lib/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
+    vendor/asus/tf201/proprietary/lib/libtjpg.so:system/lib/libtjpg.so \
     vendor/asus/tf201/proprietary/lib/libnvmm_contentpipe.so:system/lib/libnvmm_contentpipe.so \
     vendor/asus/tf201/proprietary/lib/libnvparser.so:system/lib/libnvparser.so \
     vendor/asus/tf201/proprietary/lib/libasound.so:system/lib/libasound.so \
