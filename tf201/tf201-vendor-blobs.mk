@@ -59,6 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf201/proprietary/lib/hw/lights.cardhu.so:system/lib/hw/lights.cardhu.so \
     vendor/asus/tf201/proprietary/lib/hw/gpsdongle.tegra.so:system/lib/hw/gpsdongle.tegra.so \
     vendor/asus/tf201/proprietary/lib/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
+    vendor/asus/tf201/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/asus/tf201/proprietary/lib/libtjpg.so:system/lib/libtjpg.so \
     vendor/asus/tf201/proprietary/lib/libnvmm_contentpipe.so:system/lib/libnvmm_contentpipe.so \
     vendor/asus/tf201/proprietary/lib/libnvparser.so:system/lib/libnvparser.so \
@@ -159,3 +160,8 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf201/proprietary/usr/share/alsa/pcm/surround71.conf:system/usr/share/alsa/pcm/surround71.conf \
     vendor/asus/tf201/proprietary/vendor/firmware/bcm4329/fw_bcmdhd.bin:system/vendor/firmware/bcm4329/fw_bcmdhd.bin \
     vendor/asus/tf201/proprietary/vendor/firmware/bcm4329/fw_bcmdhd_apsta.bin:system/vendor/firmware/bcm4329/fw_bcmdhd_apsta.bin \
+    vendor/asus/tf201/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/asus/tf201/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/asus/tf201/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
+    vendor/asus/tf201/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
+    vendor/asus/tf201/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
